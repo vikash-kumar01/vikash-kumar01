@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **other content creators**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vikash-kumar01?tab=repositories](https://github.com/vikash-kumar01?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/vikash-kumar01?tab=repositories](https://github.com/vikash-kumar01)
 
 - 💬 Ask me about **Automation & DevOps**
 
