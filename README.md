@@ -63,8 +63,8 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 <a href="https://github.com/vikash-kumar01/demo-counter-app.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=demo-counter-app&theme=buefy" />
 </a>
-<a href="https://github.com/vikash-kumar01/demo-counter-app.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=Docker_public&theme=buefy" />
+<a href="https://github.com/vikash-kumar01/installation_scripts.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=installation_scripts&theme=buefy" />
 </a>
 <hr>
 <h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.facebook.com/groups/171043094400359">here</a> </h3> 
