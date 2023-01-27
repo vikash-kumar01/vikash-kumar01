@@ -10,8 +10,8 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 - 👯 I’m looking for help with modifying my wordpress site. Any help would be appreciated!<br/>
 - 🤔 I’m looking for help with making presentations that help people learn for free<br/>
 - 💬 Ask me about programming and DevOps!<br/>
-- 📫 How to reach me: Email: kunchalavikram1427@gmail.com<br/>
-- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/DevOpsMadeEasy. Tech & Shopping addict :P<br/>
+- 📫 How to reach me: Email: vikashashoke@gmail.com<br/>
+- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/MrDevOps. Tech & Shopping addict :P<br/>
 
 ## ⚡ Domains
 - DevOps
