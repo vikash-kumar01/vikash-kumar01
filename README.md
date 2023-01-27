@@ -1,27 +1,71 @@
-<h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">A DevOps engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.</h3>
+<h2 align="center">Hello there! My name is Vikash. 👋🤓</h2>
+<p align="center">I'm a Full Stack Software Developer and Senior DevOps Engineer from India. TEACHING IS MY PASSION.
+Most of the times you see me writing tutorials on various languages like Python/Go, and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc.
+When I'm not writing, you can find me watching videos on youtube, watching sitcoms, day dreaming or playing mobile games. Kindly support my YouTube channel https://www.youtube.com/c/MrDevOps </p>
 
-- 🔭 I’m currently working on **Creating Devops related tech resourses**
+## ⚡ Updates
 
-- 🌱 I’m currently learning **Almost Every DevOps tools**
+- 🔭 I’m currently working on making awesome YouTube Videos for teaching DevOps <br/>
+- 🌱 I’m currently preparing for K8s certifications<br/>
+- 👯 I’m looking for help with modifying my wordpress site. Any help would be appreciated!<br/>
+- 🤔 I’m looking for help with making presentations that help people learn for free<br/>
+- 💬 Ask me about programming and DevOps!<br/>
+- 📫 How to reach me: Email: kunchalavikram1427@gmail.com<br/>
+- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/DevOpsMadeEasy. Tech & Shopping addict :P<br/>
 
-- 👯 I’m looking to collaborate on **other content creators**
+## ⚡ Domains
+- DevOps
+- Cloud
+- Development
 
-- 👨‍💻 All of my projects are available at [https://github.com/vikash-kumar01](https://github.com/vikash-kumar01)
+## ⚡ Tech Stack
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DO](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Synk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Prom](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Post](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![ZigBee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
-- 💬 Ask me about **Automation & DevOps**
+## ⚡ My GitHub Stats
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&theme=gotham" alt="kunchalavikram1427" />
 
-- 📫 How to reach me **vikashashoke@outlook.com**
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kunchalavikram1427&show_icons=true&line_height=27&include_all_commits=true"/> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunchalavikram1427&hide=TeX&layout=compact)
+ -->
+ | <a href="https://github.com/vikash-kumar01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-kumar01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-kumar01&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-- ⚡ Fun fact **I love to try everything :)**
+## ⚡ Top Repositories
+<a href="https://github.com/vikash-kumar01/YouTube_Series">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=YouTube_Series&theme=buefy" />
+</a>
+<a href="https://github.com/vikash-kumar01/YouTube_Series">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=Docker_public&theme=buefy" />
+</a>
+<hr>
+<h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://www.facebook.com/groups/171043094400359">here</a> </h3> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vikash-kumar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-kumar-448a57ba" height="30" width="40" /></a>
-<a href="https://fb.com/vikash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikash kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/rockstar_ranveer01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rockstar_ranveer01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/MrDevOps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.devops engineer" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
