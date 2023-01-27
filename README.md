@@ -61,7 +61,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 
 ## ⚡ Top Repositories
 <a href="https://github.com/vikash-kumar01/demo-counter-app.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=YouTube_Series&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=demo-counter-app&theme=buefy" />
 </a>
 <a href="https://github.com/vikash-kumar01/demo-counter-app.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikash-kumar01&repo=Docker_public&theme=buefy" />
