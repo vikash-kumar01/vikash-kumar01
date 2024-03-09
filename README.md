@@ -1,8 +1,10 @@
 <h2 align="center"></h2>
 <h1 align="center"><font face="Arial">Hello there! My name is Vikash. 👋🤓 a.k.a <a href="https://www.youtube.com/@MrDevOps">MrDevOps</a></font></h1>
-<p align="center"><a href="https://www.linkedin.com/in/vikash-kumar01/" target="_blank" rel="noreferrer">Vikash</a> is a Full Stack Software Developer and Senior DevOps Engineer from India. TEACHING IS HIS PASSION.
+<!-- <p align="center"><a href="https://www.linkedin.com/in/vikash-kumar01/" target="_blank" rel="noreferrer">Vikash</a> is a Full Stack Software Developer and Senior DevOps Engineer from India. TEACHING IS HIS PASSION.
 Most of the times you see me writing tutorials on various languages like Python/Go, and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc.
-When I'm not writing, you can find me watching videos on youtube, watching sitcoms, day dreaming or playing mobile games. Kindly support my YouTube channel https://www.youtube.com/c/MrDevOps </p>
+When I'm not writing, you can find me watching videos on youtube, watching sitcoms, day dreaming or playing mobile games. Kindly support my YouTube channel https://www.youtube.com/c/MrDevOps </p> -->
+
+<p align="center"><a href="https://www.linkedin.com/in/vikash-kumar01/" target="_blank" rel="noreferrer">Vikash</a> is an enthusiastic Full Stack Software Developer and experienced Senior DevOps Engineer based in India. Teaching is his true passion. Most of the time, you'll find him creating tutorials on various programming languages such as Python and Go, along with DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, and Git. When he's not busy writing, you can catch him watching educational videos on YouTube, enjoying sitcoms, daydreaming, or playing mobile games. Kindly show your support for his YouTube channel MrDevOps. </p>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
